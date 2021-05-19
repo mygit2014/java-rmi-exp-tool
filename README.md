@@ -15,7 +15,11 @@
 
 使用方法： 
 
+一般的payload，直接点 开始检测
+
 UnicastRemoteObjectBypass8u231 和 UncastRefForBypassJEP290 是反弹Payload，
+
+使用步骤如下：
 
 1、JRMP监听
 
@@ -28,7 +32,7 @@ UnicastRemoteObjectBypass8u231 和 UncastRefForBypassJEP290 是反弹Payload，
 3、反弹之后检测是否可以利用，点击 检测是否可利用
 
 
-其他payload，直接点 开始检测
+
 
 
 三、方法参数反序列化漏洞
