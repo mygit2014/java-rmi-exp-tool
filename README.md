@@ -6,10 +6,7 @@
 
 1、综合了市面上最新的javarmi反序列化攻击手法和Payload
 
-UnicastRefForByPassJEP290
-UnicastRemoteObjectBypass8u231
-方法参数反序列化攻击
-等等...
+UnicastRefForByPassJEP290、UnicastRemoteObjectBypass8u231、常见的cc链、方法参数反序列化攻击等等...
 
 2、采用最新的注册RMI实例的方法实现回显
 
