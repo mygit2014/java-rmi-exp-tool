@@ -8,7 +8,7 @@
 
 UnicastRefForByPassJEP290、UnicastRemoteObjectBypass8u231、常见的cc链、方法参数反序列化攻击等等...
 
-2、采用最新的注册RMI实例的方法实现回显
+2、不用基于报错的回显方式，采用最新的注册RMI实例的方法实现回显
 
 
 主要功能：
