@@ -1,6 +1,19 @@
 -------------------------------JAVA RMI反序列化漏洞综合利用工具----------------------------------
 ![image](https://raw.githubusercontent.com/msx2009/RMIAllExpTools/master/1.jpg)
 ![image](https://raw.githubusercontent.com/msx2009/RMIAllExpTools/master/2.jpg)
+
+工具特点：
+
+1、综合了市面上最新的javarmi反序列化攻击手法和Payload
+
+UnicastRefForByPassJEP290
+UnicastRemoteObjectBypass8u231
+方法参数反序列化攻击
+等等...
+
+2、采用最新的注册RMI实例的方法实现回显
+
+
 主要功能：
 
 一、检测所有回显Payload
